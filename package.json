@@ -1,0 +1,17 @@
+{
+  "name": "typescript-demo-2",
+  "version": "1.0.0",
+  "description": "\"to explain about ts\"",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc --watch",
+    "start": "node dist/main.js"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "kumanan",
+  "license": "ISC"
+}
